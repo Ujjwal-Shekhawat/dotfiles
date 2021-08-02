@@ -1,0 +1,89 @@
+Aug 01 05:43 : update: added REOL/mirage.mp3
+Aug 01 05:43 : update: added /mirage.mp3
+Aug 01 05:46 : player: played "mirage.mp3"
+Aug 01 05:47 : exception: No such directory
+Aug 01 05:47 : exception: Failed to open '/home/kamisama/Music/!.m3u': No such file or directory
+Aug 01 05:47 : exception: No such playlist
+Aug 01 05:52 : player: played "REOL/mirage.mp3"
+Aug 01 05:54 : player: played "REOL/mirage.mp3"
+Aug 01 06:03 : player: played "mirage.mp3"
+Aug 01 06:09 : player: played "mirage.mp3"
+Aug 01 06:10 : player: played "mirage.mp3"
+Aug 01 07:02 : player: played "REOL/mirage.mp3"
+Aug 01 07:06 : player: played "REOL/mirage.mp3"
+Aug 01 07:06 : player: played "REOL/mirage.mp3"
+Aug 01 07:28 : player: played "REOL/mirage.mp3"
+Aug 01 18:22 : player: played "REOL/mirage.mp3"
+Aug 01 18:26 : player: played "REOL/mirage.mp3"
+Aug 01 18:30 : player: played "REOL/mirage.mp3"
+Aug 01 18:34 : player: played "REOL/mirage.mp3"
+Aug 01 18:37 : player: played "REOL/mirage.mp3"
+Aug 01 18:41 : player: played "REOL/mirage.mp3"
+Aug 01 18:45 : player: played "REOL/mirage.mp3"
+Aug 01 18:48 : player: played "REOL/mirage.mp3"
+Aug 01 18:52 : player: played "REOL/mirage.mp3"
+Aug 01 19:10 : player: played "REOL/mirage.mp3"
+Aug 01 19:14 : player: played "REOL/mirage.mp3"
+Aug 01 19:17 : player: played "REOL/mirage.mp3"
+Aug 01 19:21 : player: played "REOL/mirage.mp3"
+Aug 01 19:25 : player: played "REOL/mirage.mp3"
+Aug 01 19:29 : player: played "REOL/mirage.mp3"
+Aug 01 19:32 : player: played "REOL/mirage.mp3"
+Aug 01 19:36 : player: played "REOL/mirage.mp3"
+Aug 01 19:39 : player: played "REOL/mirage.mp3"
+Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:47 : player: played "mirage.mp3"
+Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:47 : player: played "mirage.mp3"
+Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:50 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:51 : player: played "REOL/mirage.mp3"
+Aug 01 21:51 : player: played "mirage.mp3"
+Aug 01 21:52 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:52 : player: played "mirage.mp3"
+Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:55 : player: played "REOL/mirage.mp3"
+Aug 01 21:55 : player: played "mirage.mp3"
+Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:55 : player: played "mirage.mp3"
+Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:55 : player: played "mirage.mp3"
+Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:56 : player: played "mirage.mp3"
+Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 01 21:56 : player: played "mirage.mp3"
+Aug 01 22:00 : player: played "REOL/mirage.mp3"
+Aug 01 22:03 : player: played "REOL/mirage.mp3"
+Aug 01 22:04 : player: played "REOL/mirage.mp3"
+Aug 02 01:59 : player: played "REOL/mirage.mp3"
+Aug 02 02:03 : player: played "REOL/mirage.mp3"
+Aug 02 02:06 : player: played "REOL/mirage.mp3"
+Aug 02 02:10 : player: played "REOL/mirage.mp3"
+Aug 02 02:23 : player: played "REOL/mirage.mp3"
+Aug 02 02:27 : player: played "REOL/mirage.mp3"
+Aug 02 02:30 : player: played "REOL/mirage.mp3"
+Aug 02 02:34 : player: played "REOL/mirage.mp3"
+Aug 02 02:38 : player: played "REOL/mirage.mp3"
+Aug 02 02:41 : player: played "REOL/mirage.mp3"
+Aug 02 02:45 : player: played "REOL/mirage.mp3"
+Aug 02 02:45 : player: played "REOL/mirage.mp3"
+Aug 02 03:25 : player: played "REOL/mirage.mp3"
+Aug 02 03:29 : player: played "REOL/mirage.mp3"
+Aug 02 03:33 : player: played "REOL/mirage.mp3"
+Aug 02 03:34 : player: played "REOL/mirage.mp3"
+Aug 02 11:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
+Aug 02 11:56 : player: played "mirage.mp3"
+Aug 02 12:03 : player: played "REOL/mirage.mp3"
+Aug 02 12:06 : player: played "REOL/mirage.mp3"
+Aug 02 12:10 : player: played "REOL/mirage.mp3"
+Aug 02 12:14 : player: played "REOL/mirage.mp3"
+Aug 02 12:18 : player: played "REOL/mirage.mp3"
+Aug 02 12:21 : player: played "REOL/mirage.mp3"
+Aug 02 12:23 : player: played "REOL/mirage.mp3"
+Aug 02 12:35 : player: played "REOL/mirage.mp3"
+Aug 02 12:38 : player: played "REOL/mirage.mp3"
+Aug 02 12:42 : player: played "REOL/mirage.mp3"
+Aug 02 12:46 : player: played "REOL/mirage.mp3"
+Aug 02 12:50 : player: played "REOL/mirage.mp3"
