@@ -662,6 +662,7 @@ end)
 beautiful.useless_gap = 5
 
 -- Autostart
+awful.spawn.with_shell("wal -i ~/Downloads/Wallpaperrs/gg.jpg")
 awful.spawn.with_shell("picom &")
 awful.spawn.with_shell("polybar bar &")
 -- awful.spawn.with_shell("nitrogen --set-zoom-fill --random ~/Downloads/Wallpapers/")
