@@ -21,6 +21,8 @@ pseudo-transparency = true
 [global/wm]
 margin-top = 0
 margin-bottom = 0
+margin-right = 0
+margin-left = 0
 
 [bar/bar]
 monitor = ${env:MONITOR:}
@@ -48,6 +50,8 @@ tray-offset-x = 0
 tray-offset-y = 0
 tray-scale = 1.0
 
+enable-ipc = true
+
 font-0 = Montserrat:weight=SemiBold:size=10;2
 font-1 = FiraCode Nerd Font:size=12;1.5
 font-2 = Montserrat:weight=Medium:size=10;2
@@ -62,7 +66,8 @@ bottom = false
 
 ; Module Positioning
 modules-left = workspaces
-modules-right = pacman audio system-cpu-temppercore date battery powermenu
+modules-center = polybar-windows
+modules-right = pacman audio microphone system-cpu-temppercore date battery powermenu
 
 ; Module Defs
 [module/workspaces]
@@ -98,6 +103,24 @@ modules-right = pacman audio system-cpu-temppercore date battery powermenu
     click-middle = "pavucontrol"
     interval = 5
     label-active-font = 1
+
+[module/microphone]
+	type = custom/ipc
+	hook-0 = amixer get Capture | grep -i left | grep -i % | awk '"[]" {print $6, $5}' | sed -E 's/\[//g;s/\]//g;s/on/ /g;s/off/ /g'
+	; exec = amixer get Capture | grep -i left | grep -i % | awk '"[]" {print $5, $6}' | sed -E 's/\[//g;s/\]//g'
+	click-left = amixer set Capture toggle | polybar-msg hook microphone 1
+	; format-prefix = amixer get Capture | grep -i left | grep -i % | awk '"[]" {print $6}' | sed -E 's/on//g;s/off//g'
+	scroll-up = amixer set Capture 5%+ | polybar-msg hook microphone 1
+	scroll-down = amixer set Capture 5%- | polybar-msg hook microphone 1
+	initial = 1
+
+[module/polybar-windows]
+	type = custom/script
+	exec = $HOME/.config/polybar/scripts/win.sh
+	format = <label>
+	label = %output%
+	label-padding = 1
+	interval = 1
 
 [module/date]
     type = internal/date
