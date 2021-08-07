@@ -1,16 +1,28 @@
 [colors]
 background = ${xrdb:background}
-background-wm = ${xrdb:color8}
 background-alt = ${xrdb:color0}
 foreground = ${xrdb:foreground}
 foreground-alt = ${xrdb:color7}
 primary = ${xrdb:color4}
 alert = ${xrdb:color1}
 
+;color0 = ${xrdb:color0}
+;color1 = ${xrdb:color1}
+color0 = ${xrdb:color2}
+color1 = ${xrdb:color3}
+color2 = ${xrdb:color4}
+color3 = ${xrdb:color5}
+color4 = ${xrdb:color6}
+color5 = ${xrdb:color7}
+color6 = ${xrdb:color8}
+color7 = ${xrdb:color9}
+color8 = ${xrdb:color10}
+color9 = ${xrdb:color11}
+
 [settings]
-format-foreground =
+format-foreground = ${colors.foreground}
 format-underline = ${colors.primary}
-format-background = ${colors.background-alt}
+format-background = ${colors.background}
 format-padding = 1
 format-overline =
 format-margin = 0
@@ -35,12 +47,12 @@ fixed-center = true
 border-size= 0
 background = ${colors.background}
 foreground = ${colors.foreground}
-padding-left = 7
-padding-right = 7
-module-margin-left = 2
-module-margin-right = 2
+padding-left = 5
+padding-right = 0
+module-margin-left = 0
+module-margin-right = 0
 
-underline-size = 5
+underline-size = 0
 overline-size = 0
 
 tray-position = right
@@ -59,15 +71,13 @@ font-3 = Font Awesome:style=Regular;2
 font-4 = Font Awesome 5 Brands,Font Awesome 5 Brands Regular:style=Regular;2
 font-5 = Font Awesome 5 Free,Font Awesome 5 Free Solid:style=Solid;2
 font-6 = Font Awesome 5 Free,Font Awesome 5 Free Regular:style=Regular;2
-font-7 = Noto Sans Mono:style=Regular;2
-font-8 = Noto Sans CJK SC,Noto Sans CJK SC Regular:style=Regular;2
 
 cursor-click = pointer
 cursor-scroll = ns-resize
 bottom = false
 
 ; Module Positioning
-modules-left = workspaces mpd
+modules-left = workspaces
 modules-center = polybar-windows
 modules-right = pacman audio microphone brightness system-cpu-temppercore date battery powermenu
 
@@ -76,7 +86,7 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
     type = internal/xworkspaces
     pin-workspaces = false
     enable-click = false
-    enable-scroll = false
+    enable-scroll = true
     format-padding = 1
     format = <label-state>
     icon-default = ""
@@ -104,6 +114,8 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
     click-right = "pactl set-sink-volume @DEFAULT_SINK@ -1000"
     click-middle = "pavucontrol"
     interval = 5
+    format-underline = ${colors.color2}
+    format-background = ${colors.color1}
     label-active-font = 1
 
 [module/microphone]
@@ -114,6 +126,8 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
 	; format-prefix = amixer get Capture | grep -i left | grep -i % | awk '"[]" {print $6}' | sed -E 's/on//g;s/off//g'
 	scroll-up = amixer set Capture 5%+ | polybar-msg hook microphone 1
 	scroll-down = amixer set Capture 5%- | polybar-msg hook microphone 1
+    	format-underline = ${colors.color2}
+	format-background = ${colors.color2}
 	initial = 1
 
 [module/brightness]
@@ -123,6 +137,8 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
 	scroll-down = brightnessctl set 5%- | polybar-msg hook brightness 1
 	initial = 1
 	format-prefix = " "
+    	format-underline = ${colors.color2}
+	format-background = ${colors.color3}
 
 [module/polybar-windows]
 	type = custom/script
@@ -139,6 +155,8 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
     time = %l:%M %p
     label = %{T3}%date%%{T-}  %time%
     background = ${colors.background} 
+    format-underline = ${colors.color2}
+    format-background = ${colors.color5}
 
 [module/battery]
     type = internal/battery
@@ -165,6 +183,8 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
     animation-discharging-2 = 
     animation-discharging-foreground = ${colors.foreground}
     animation-discharging-framerate = 750
+    format-underline = ${colors.color2}
+    format-background = ${colors.color6}
 
 [module/powermenu]
     type = custom/menu
@@ -175,49 +195,25 @@ modules-right = pacman audio microphone brightness system-cpu-temppercore date b
     label-separator = " "
     label-separator-foreground = ${colors.foreground}
     menu-0-0 = ""
-    menu-0-0-exec = reboot
+    menu-0-0-exec = sudo reboot
     menu-0-1 = "  "
-    menu-0-1-exec = poweroff
+    menu-0-1-exec = sudo poweroff
+    format-underline = ${colors.color2}
+    format-background = ${colors.color7}
 
 [module/system-cpu-temppercore]
 type = custom/script
 exec = sensors | grep Core | awk '{print substr($3, 2, length($3)-5)}' | tr "\\n" " " | sed 's/ /°C  /g' | sed 's/  $//'
 interval = 60
+format-underline = ${colors.color2}
+format-background = ${colors.color4}
 
 [module/pacman]
     type = custom/script
     exec = pacman -Q | wc -l
     interval = 6000
     format-prefix = ": "
-    format-underline = #E57899
-    format-background = #0f0f0f
+    format-underline = ${colors.color2}
+    format-background = ${colors.color0}
     format-padding = 1
     initial = 1
-
-[module/mpd]
-	type = internal/mpd
-	host = 127.0.0.1
-	port = 6601
-	interval = 2
-	; additional options for this module
-	format-online = "<label-song> <bar-progress> <icon-play> <icon-pause> <icon-stop> <icon-prev> <icon-next>"
-	icon-prev = 
-	icon-stop = 
-	icon-play = 
-	icon-pause = 
-	icon-next = 
-	bar-progress-width = 20
-	bar-progress-indicator = 
-	bar-progress-fill = ""
-	bar-progress-empty = " "
-	bar-progress-fill-foreground = #ff0
-	bar-progress-fill-background = ${colors.background}
-	bar-progress-indicator-foreground = #ff0
-	bar-progress-indicator-background = ${colors.background}
-	format-online-foreground = ${colors.foreground}
-	format-online-background = ${colors.background}
-	; label-song = %artist% - %title%
-	; label-time = %elapsed% / %total%
-	; label-offline = 🎜 mpd is offline
-
-
