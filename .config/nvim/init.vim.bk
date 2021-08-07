@@ -1,0 +1,13 @@
+" This line makes pacman-installed global Arch Linux vim packages work.
+source /usr/share/nvim/archlinux.vim
+
+call plug#begin('~/local/share/nvim/plugged')
+Plug 'c0r73x/colorizer'
+Plug 'preservim/nerdtree'
+call plug#end()
+
+nnoremap <leader>n :NERDTreeFocus<CR>
+" nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-n> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
