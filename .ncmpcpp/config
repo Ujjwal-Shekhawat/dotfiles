@@ -33,3 +33,5 @@ mpd_port = "6601"
  visualizer_sync_interval = "30"
  visualizer_type = "wave"
  visualizer_look = "●▋"
+
+execute_on_song_change = "/home/kamisama/mpdinoti.sh"

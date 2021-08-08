@@ -1,89 +1,658 @@
-Aug 01 05:43 : update: added REOL/mirage.mp3
-Aug 01 05:43 : update: added /mirage.mp3
-Aug 01 05:46 : player: played "mirage.mp3"
-Aug 01 05:47 : exception: No such directory
-Aug 01 05:47 : exception: Failed to open '/home/kamisama/Music/!.m3u': No such file or directory
-Aug 01 05:47 : exception: No such playlist
-Aug 01 05:52 : player: played "REOL/mirage.mp3"
-Aug 01 05:54 : player: played "REOL/mirage.mp3"
-Aug 01 06:03 : player: played "mirage.mp3"
-Aug 01 06:09 : player: played "mirage.mp3"
-Aug 01 06:10 : player: played "mirage.mp3"
-Aug 01 07:02 : player: played "REOL/mirage.mp3"
-Aug 01 07:06 : player: played "REOL/mirage.mp3"
-Aug 01 07:06 : player: played "REOL/mirage.mp3"
-Aug 01 07:28 : player: played "REOL/mirage.mp3"
-Aug 01 18:22 : player: played "REOL/mirage.mp3"
-Aug 01 18:26 : player: played "REOL/mirage.mp3"
-Aug 01 18:30 : player: played "REOL/mirage.mp3"
-Aug 01 18:34 : player: played "REOL/mirage.mp3"
-Aug 01 18:37 : player: played "REOL/mirage.mp3"
-Aug 01 18:41 : player: played "REOL/mirage.mp3"
-Aug 01 18:45 : player: played "REOL/mirage.mp3"
-Aug 01 18:48 : player: played "REOL/mirage.mp3"
-Aug 01 18:52 : player: played "REOL/mirage.mp3"
-Aug 01 19:10 : player: played "REOL/mirage.mp3"
-Aug 01 19:14 : player: played "REOL/mirage.mp3"
-Aug 01 19:17 : player: played "REOL/mirage.mp3"
-Aug 01 19:21 : player: played "REOL/mirage.mp3"
-Aug 01 19:25 : player: played "REOL/mirage.mp3"
-Aug 01 19:29 : player: played "REOL/mirage.mp3"
-Aug 01 19:32 : player: played "REOL/mirage.mp3"
-Aug 01 19:36 : player: played "REOL/mirage.mp3"
-Aug 01 19:39 : player: played "REOL/mirage.mp3"
-Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:47 : player: played "mirage.mp3"
-Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:47 : player: played "mirage.mp3"
-Aug 01 21:47 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:50 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:51 : player: played "REOL/mirage.mp3"
-Aug 01 21:51 : player: played "mirage.mp3"
-Aug 01 21:52 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:52 : player: played "mirage.mp3"
-Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:55 : player: played "REOL/mirage.mp3"
-Aug 01 21:55 : player: played "mirage.mp3"
-Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:55 : player: played "mirage.mp3"
-Aug 01 21:55 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:55 : player: played "mirage.mp3"
-Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:56 : player: played "mirage.mp3"
-Aug 01 21:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 01 21:56 : player: played "mirage.mp3"
-Aug 01 22:00 : player: played "REOL/mirage.mp3"
-Aug 01 22:03 : player: played "REOL/mirage.mp3"
-Aug 01 22:04 : player: played "REOL/mirage.mp3"
-Aug 02 01:59 : player: played "REOL/mirage.mp3"
-Aug 02 02:03 : player: played "REOL/mirage.mp3"
-Aug 02 02:06 : player: played "REOL/mirage.mp3"
-Aug 02 02:10 : player: played "REOL/mirage.mp3"
-Aug 02 02:23 : player: played "REOL/mirage.mp3"
-Aug 02 02:27 : player: played "REOL/mirage.mp3"
-Aug 02 02:30 : player: played "REOL/mirage.mp3"
-Aug 02 02:34 : player: played "REOL/mirage.mp3"
-Aug 02 02:38 : player: played "REOL/mirage.mp3"
-Aug 02 02:41 : player: played "REOL/mirage.mp3"
-Aug 02 02:45 : player: played "REOL/mirage.mp3"
-Aug 02 02:45 : player: played "REOL/mirage.mp3"
-Aug 02 03:25 : player: played "REOL/mirage.mp3"
-Aug 02 03:29 : player: played "REOL/mirage.mp3"
-Aug 02 03:33 : player: played "REOL/mirage.mp3"
-Aug 02 03:34 : player: played "REOL/mirage.mp3"
-Aug 02 11:56 : exception: Failed to decode /home/kamisama/Music/mirage.mp3; Failed to open '/home/kamisama/Music/mirage.mp3': No such file or directory
-Aug 02 11:56 : player: played "mirage.mp3"
-Aug 02 12:03 : player: played "REOL/mirage.mp3"
-Aug 02 12:06 : player: played "REOL/mirage.mp3"
-Aug 02 12:10 : player: played "REOL/mirage.mp3"
-Aug 02 12:14 : player: played "REOL/mirage.mp3"
-Aug 02 12:18 : player: played "REOL/mirage.mp3"
-Aug 02 12:21 : player: played "REOL/mirage.mp3"
-Aug 02 12:23 : player: played "REOL/mirage.mp3"
-Aug 02 12:35 : player: played "REOL/mirage.mp3"
-Aug 02 12:38 : player: played "REOL/mirage.mp3"
-Aug 02 12:42 : player: played "REOL/mirage.mp3"
-Aug 02 12:46 : player: played "REOL/mirage.mp3"
-Aug 02 12:50 : player: played "REOL/mirage.mp3"
+Aug 07 21:04 : update: added /11 medemede -JJJ Remix-.mp3
+Aug 07 21:04 : update: added /05 煩悩遊戯.mp3
+Aug 07 21:04 : update: added /02 サイサキ.mp3
+Aug 07 21:04 : update: added /08 ミラージュ.mp3
+Aug 07 21:04 : update: added /07 真空オールドローズ.mp3
+Aug 07 21:04 : update: added /06 -MANDARA FACT-.mp3
+Aug 07 21:04 : update: added /04 十中八九.mp3
+Aug 07 21:04 : update: added /01 幽居のワルツ.mp3
+Aug 07 21:04 : update: added /10 秋映.mp3
+Aug 07 21:04 : update: added /09 SAIREN.mp3
+Aug 07 21:04 : update: added /03 激白.mp3
+Aug 07 21:10 : player: played "01 幽居のワルツ.mp3"
+Aug 07 21:14 : player: played "02 サイサキ.mp3"
+Aug 07 21:17 : player: played "03 激白.mp3"
+Aug 07 21:21 : player: played "04 十中八九.mp3"
+Aug 07 21:39 : player: played "01 幽居のワルツ.mp3"
+Aug 07 21:42 : player: played "02 サイサキ.mp3"
+Aug 07 21:42 : player: played "03 激白.mp3"
+Aug 07 21:48 : player: played "04 十中八九.mp3"
+Aug 07 21:51 : player: played "05 煩悩遊戯.mp3"
+Aug 07 21:53 : player: played "05 煩悩遊戯.mp3"
+Aug 07 21:54 : player: played "06 -MANDARA FACT-.mp3"
+Aug 07 21:55 : player: played "06 -MANDARA FACT-.mp3"
+Aug 07 21:59 : player: played "07 真空オールドローズ.mp3"
+Aug 07 22:03 : player: played "08 ミラージュ.mp3"
+Aug 07 22:09 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 07 22:13 : player: played "01 幽居のワルツ.mp3"
+Aug 07 22:17 : player: played "02 サイサキ.mp3"
+Aug 07 22:20 : player: played "03 激白.mp3"
+Aug 07 22:24 : player: played "04 十中八九.mp3"
+Aug 07 22:30 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 07 22:35 : player: played "01 幽居のワルツ.mp3"
+Aug 07 22:38 : player: played "02 サイサキ.mp3"
+Aug 07 22:42 : player: played "05 煩悩遊戯.mp3"
+Aug 07 22:44 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:18 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:18 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:18 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:18 : player: played "02 サイサキ.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:18 : player: played "03 激白.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:18 : player: played "04 十中八九.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:18 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:18 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:18 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:18 : player: played "08 ミラージュ.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:18 : player: played "09 SAIREN.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:18 : player: played "10 秋映.mp3"
+Aug 08 17:18 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:18 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:19 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:19 : player: played "08 ミラージュ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "09 SAIREN.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:19 : player: played "10 秋映.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:19 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:19 : player: played "02 サイサキ.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:19 : player: played "03 激白.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "04 十中八九.mp3"
+Aug 08 17:19 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:19 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:20 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:20 : player: played "08 ミラージュ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:20 : player: played "09 SAIREN.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:20 : player: played "10 秋映.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:20 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:20 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:20 : player: played "02 サイサキ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:20 : player: played "03 激白.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:20 : player: played "04 十中八九.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:20 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:20 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:20 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:20 : player: played "08 ミラージュ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:20 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/07 真空オールドローズ.mp3; Failed to open '/home/kamisama/Music/07 真空オールドローズ.mp3': No such file or directory
+Aug 08 17:20 : player: played "07 真空オールドローズ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/08 ミラージュ.mp3; Failed to open '/home/kamisama/Music/08 ミラージュ.mp3': No such file or directory
+Aug 08 17:20 : player: played "08 ミラージュ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/09 SAIREN.mp3; Failed to open '/home/kamisama/Music/09 SAIREN.mp3': No such file or directory
+Aug 08 17:20 : player: played "09 SAIREN.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/10 秋映.mp3; Failed to open '/home/kamisama/Music/10 秋映.mp3': No such file or directory
+Aug 08 17:20 : player: played "10 秋映.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/11 medemede -JJJ Remix-.mp3; Failed to open '/home/kamisama/Music/11 medemede -JJJ Remix-.mp3': No such file or directory
+Aug 08 17:20 : player: played "11 medemede -JJJ Remix-.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/01 幽居のワルツ.mp3; Failed to open '/home/kamisama/Music/01 幽居のワルツ.mp3': No such file or directory
+Aug 08 17:20 : player: played "01 幽居のワルツ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/02 サイサキ.mp3; Failed to open '/home/kamisama/Music/02 サイサキ.mp3': No such file or directory
+Aug 08 17:20 : player: played "02 サイサキ.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/03 激白.mp3; Failed to open '/home/kamisama/Music/03 激白.mp3': No such file or directory
+Aug 08 17:20 : player: played "03 激白.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/04 十中八九.mp3; Failed to open '/home/kamisama/Music/04 十中八九.mp3': No such file or directory
+Aug 08 17:20 : player: played "04 十中八九.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/05 煩悩遊戯.mp3; Failed to open '/home/kamisama/Music/05 煩悩遊戯.mp3': No such file or directory
+Aug 08 17:20 : player: played "05 煩悩遊戯.mp3"
+Aug 08 17:20 : exception: Failed to decode /home/kamisama/Music/06 -MANDARA FACT-.mp3; Failed to open '/home/kamisama/Music/06 -MANDARA FACT-.mp3': No such file or directory
+Aug 08 17:20 : player: played "06 -MANDARA FACT-.mp3"
+Aug 08 17:20 : update: added Jijitsujou/11 medemede -JJJ Remix-.mp3
+Aug 08 17:20 : update: added Jijitsujou/05 煩悩遊戯.mp3
+Aug 08 17:20 : update: added Jijitsujou/02 サイサキ.mp3
+Aug 08 17:20 : update: added Jijitsujou/08 ミラージュ.mp3
+Aug 08 17:20 : update: added Jijitsujou/07 真空オールドローズ.mp3
+Aug 08 17:20 : update: added Jijitsujou/06 -MANDARA FACT-.mp3
+Aug 08 17:20 : update: added Jijitsujou/04 十中八九.mp3
+Aug 08 17:20 : update: added Jijitsujou/01 幽居のワルツ.mp3
+Aug 08 17:20 : update: added Jijitsujou/10 秋映.mp3
+Aug 08 17:20 : update: added Jijitsujou/09 SAIREN.mp3
+Aug 08 17:20 : update: added Jijitsujou/03 激白.mp3
+Aug 08 17:25 : player: played "Jijitsujou/02 サイサキ.mp3"
+Aug 08 17:29 : player: played "Jijitsujou/03 激白.mp3"
+Aug 08 17:33 : player: played "Jijitsujou/04 十中八九.mp3"
+Aug 08 17:36 : player: played "Jijitsujou/05 煩悩遊戯.mp3"
+Aug 08 17:40 : player: played "Jijitsujou/10 秋映.mp3"
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added Endless EP {REOL}/04. LUVORATORRRRRY!.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added Endless EP {REOL}/01. ニュータイプトーキョー.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added Endless EP {REOL}/02 B12.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added Endless EP {REOL}/03. エンドレスライン.m4a
+Aug 08 17:41 : update: added Kinjitou/11 1LDK.mp3
+Aug 08 17:41 : update: added Kinjitou/01 金字塔.mp3
+Aug 08 17:41 : update: added Kinjitou/03 ゆーれいずみー.mp3
+Aug 08 17:41 : update: added Kinjitou/07 insider.mp3
+Aug 08 17:41 : update: added Kinjitou/10 GRIMOIRE.mp3
+Aug 08 17:41 : update: added Kinjitou/06 un, deux, trois.mp3
+Aug 08 17:41 : update: added Kinjitou/05 ハーメルン.mp3
+Aug 08 17:41 : update: added Kinjitou/02 HYPE MODE.mp3
+Aug 08 17:41 : update: added Kinjitou/09 -ルネの小品 Nr. 9-.mp3
+Aug 08 17:41 : update: added Kinjitou/08 ダリ.mp3
+Aug 08 17:41 : update: added Kinjitou/04 -ムーブのための試奏曲 Nr. 4-.mp3
+Aug 08 17:41 : update: added Endeless/04 LUVORATORRRRRY!.flac
+Aug 08 17:41 : update: added Endeless/03 エンドレスライン.flac
+Aug 08 17:41 : update: added Endeless/01 ニュータイプトーキョー.flac
+Aug 08 17:41 : update: added Endeless/02 B12.flac
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/06. Lunatic.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/10. DetaramE KiddinG.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/04. コノヨLoading....m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/08. ちるちる.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/12. 404 not found.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/03. 宵々古今.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/05. RE：.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/02. ギミアブレスタッナウ.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/13. VIORA.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/01. VIP KID.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/09. -FINAL SIGMA-.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/11. サマーホラーパーティ.m4a
+Aug 08 17:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 08 17:41 : update: added SIGMA/07. 神様になった日.m4a
+Aug 08 17:41 : update: added No title-/05 - -Interlude-.mp3
+Aug 08 17:41 : update: added No title-/07 - Echo.mp3
+Aug 08 17:41 : update: added No title-/11 - -Ending-.mp3
+Aug 08 17:41 : update: added No title-/03 - オオエドランヴ.mp3
+Aug 08 17:41 : update: added No title-/09 - アシンメトリー.mp3
+Aug 08 17:41 : update: added No title-/06 - No title.mp3
+Aug 08 17:41 : update: added No title-/10 - ギガンティックO.T.N -Big Death Edition-.mp3
+Aug 08 17:41 : update: added No title-/01 - -Opening-.mp3
+Aug 08 17:41 : update: added No title-/04 - drop pop candy.mp3
+Aug 08 17:41 : update: added No title-/02 - ヒビカゼ.mp3
+Aug 08 17:41 : update: added No title-/08 - -BWW SCREAM-.mp3
+Aug 08 17:41 : update: added Jijitsujou/11 medemede -JJJ Remix-.mp3
+Aug 08 17:41 : update: added Jijitsujou/05 煩悩遊戯.mp3
+Aug 08 17:41 : update: added Jijitsujou/02 サイサキ.mp3
+Aug 08 17:41 : update: added Jijitsujou/08 ミラージュ.mp3
+Aug 08 17:41 : update: added Jijitsujou/07 真空オールドローズ.mp3
+Aug 08 17:41 : update: added Jijitsujou/06 -MANDARA FACT-.mp3
+Aug 08 17:41 : update: added Jijitsujou/04 十中八九.mp3
+Aug 08 17:41 : update: added Jijitsujou/01 幽居のワルツ.mp3
+Aug 08 17:41 : update: added Jijitsujou/10 秋映.mp3
+Aug 08 17:41 : update: added Jijitsujou/09 SAIREN.mp3
+Aug 08 17:41 : update: added Jijitsujou/03 激白.mp3
+Aug 08 17:41 : update: added Gokusaishiki/01. magician's operation.mp3
+Aug 08 17:41 : update: added Gokusaishiki/01. TRUTH〜A Great Detective of Love〜.mp3
+Aug 08 17:41 : update: added Gokusaishiki/02. おこちゃま戦争.mp3
+Aug 08 17:41 : update: added Gokusaishiki/02. トキヲ・ファンカ.mp3
+Aug 08 17:41 : update: added Gokusaishiki/02. 妄想〆Question.mp3
+Aug 08 17:41 : update: added Gokusaishiki/01. FLASH BACK.mp3
+Aug 08 17:52 : player: played "Gokusaishiki/01. magician's operation.mp3"
+Aug 08 17:52 : exception: No such directory
+Aug 08 17:52 : exception: Failed to open '/home/kamisama/Music/Reol.m3u': No such file or directory
+Aug 08 17:52 : exception: No such playlist
+Aug 08 17:56 : player: played "Gokusaishiki/01. FLASH BACK.mp3"
+Aug 08 18:00 : player: played "Gokusaishiki/01. magician's operation.mp3"
+Aug 08 18:04 : player: played "Gokusaishiki/02. 妄想〆Question.mp3"
+Aug 08 18:12 : player: played "Gokusaishiki/02. おこちゃま戦争.mp3"
+Aug 08 18:12 : player: played "Gokusaishiki/02. おこちゃま戦争.mp3"
+Aug 08 18:19 : player: played "Gokusaishiki/01. magician's operation.mp3"
+Aug 08 18:23 : player: played "Gokusaishiki/02. 妄想〆Question.mp3"
+Aug 08 18:29 : player: played "Gokusaishiki/01. TRUTH〜A Great Detective of Love〜.mp3"
+Aug 08 18:32 : player: played "Gokusaishiki/02. おこちゃま戦争.mp3"
+Aug 08 18:36 : player: played "Gokusaishiki/01. FLASH BACK.mp3"
