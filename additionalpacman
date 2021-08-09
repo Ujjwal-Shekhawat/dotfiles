@@ -1,0 +1,119 @@
+   31  sudo pacman -S mpd ncmpcpp
+   77  sudo pacman -S optimus-mabnager
+   78  sudo pacman -S optimus-manager
+   79  sudo pacman 0S optimus-manager
+   80  sudo pacman -S optimus-manager
+   82  sudo pacman -S ttf-fontawesome
+   83  sudo pacman -S ttf-font-awesome
+   93  sudo pacman -S ttf-dejavu ttf-liberation noto-fonts
+   94  sudo pacman -S noto-fonts noto-fonts-extra noto-fonts-cjk noto-fonts-emoji siji-git
+   95  sudo pacman -S noto-fonts noto-fonts-extra noto-fonts-cjk noto-fonts-emoji
+   96  sudo pacman -S nitrogen
+  132  sudo pacman -S chrome-gnome-shell
+  136  sudo pacman -Rns telegram-desktop
+  137  sudo pacman -S telegram-qt
+  149  sudo pacman -S telegram-desktop
+  158  sudo pacman -S feh
+  208  sudo pacman -S w3m
+  214  sudo pacman -S rofi dmenu brightnessctl
+  261  sudo pacman -S eog sxhiv
+  262  sudo pacman -S eog sxiv
+  275  sudo pacman -S timidity
+  432  sudo pacman -S htop
+  458  sudo pacman -S cava
+  461  sudo pacman -S cmus
+  462  sudo pacman -S lxappearance
+  523  sudo pacman -S startx
+  538  sudo pacman -S startx
+  543  sudo pacman -S startx
+  546  sudo pacman -S xorg-init
+  547  sudo pacman -S xorg-xinit
+  757  sudo pacman -S steam
+  762  sudo vim /etc/pacman.conf
+  766  sudo pacman -Syyu
+  767  sudo pacman -S steam
+  972  sudo pacman -S lolban
+  975  sudo pacman -S figlet lolcat
+ 1048  sudo pacman -S dunst
+ 1143  sudo pacman -S conky
+ 1148  sudo pacman -S conky-manager
+ 1186  sudo pacman -S pusleaudio
+ 1187  sudo pacman -S pulse
+ 1188  sudo pacman -Ss pulseaudio
+ 1189  sudo pacman -S pavucontrol pavucontrol-qt
+ 1193  sudo pacman -S pamixer 0ad er
+ 1194  sudo pacman -S pamixer
+ 1201  sudo pacman -Rcn pamixer
+ 1202  sudo pacman -S amixer
+ 1227  sudo pacman -S alsa-utils
+ 1421  sudo pacman -S ranger nautilus
+ 1523  sudo pacman -Ss java | jdk
+ 1524  sudo pacman -Ss java | grep -i jdk
+ 1525  sudo pacman -S openjdk-jdk
+ 1526  sudo pacman -Ss java | grep -i jdk | grep -i 16
+ 1527  sudo pacman -S jdk-openjdk
+ 1551  history | grep -i pacman
+ 1606  pacman -Qi ranger
+ 1607  sudo pacman -S ueberzug
+ 1616  sudo pacman -S w3mimgdisplay
+ 1617  sudo pacman -S w3m
+ 1650  sudo pacman -Qi ranger
+ 1656  sudo pacman -Syyu | lolcat
+ 1661  sudo pacman -Syy
+ 1662  sudo pacman -Syyu
+ 1663  sudo pacman -S upd72020x-fw
+ 1672  sudo pacman -Syy
+ 1673  sudo pacman -Syyu
+ 1980  sudo pacman -S wmctrl
+ 2069  sudo pacman -S pfetch
+ 2070  sudo pacman -S ufetch
+ 2073  sudo pacman -S screenfetch
+ 2074  sudo pacman -Rncs screenfetch
+ 2152  sudo pacman -S scrot
+ 2310  sudo pacman -S whet
+ 2311  sudo pacman -S wget
+ 2523  sudo pacman -S syyu
+ 2524  sudo pacman -Syyu
+ 2602  sudo pacman -S wireshark-
+ 2603  sudo pacman -S wireshark-qt
+ 2624  sudo pacman -S nslookup
+ 2643  sudo pacman -S dnsutils
+ 2791  sudo pacman -S libreoffice
+ 2910  sudo pacman -S network-manager-applet
+ 2955  sudo pacman -Ss search
+ 2956  sudo pacman -Ss search | grep -i applet
+ 2957  sudo pacman -Ss search | grep -i app
+ 2958  sudo pacman -Ss applet
+ 3055  sudo pacman -s nvim
+ 3056  sudo pacman -S nvim
+ 3057  sudo pacman -S neovim
+ 3290  sudo pacman -S ly
+ 3348  sudo pacman -S intel-ucode
+ 3349  sudo pacman -S xf86-video-intel
+ 3350  sudo pacman -S xf86-video-vesa
+ 3351  sudo pacman -S xf86-video-nouveau
+ 3352  sudo pacman -S xf86-video-openchrome
+ 3377  sudo pacman -S lib32-mesa
+ 3378  sudo pacman -S xf86-video-intel
+ 3379  sudo pacman -S vulkan-intel
+ 3421  sudo pacman -S lxde
+ 3448  sudo pacman -S lightdm-settings
+ 3504  history | grep -i pacman
+ 3603  sudo pacman -S unrar
+ 3748  history| grep -i pacman | grep -i noto
+ 3900  sudo pacman -S dunst
+ 4031  sudo pacman -S obs
+ 4032  sudo pacman -S obs-studio
+ 4061  sudo pacman -Rnc vulkan-intel -rf
+ 4062  sudo pacman -Rnc vulkan-intel
+ 4114  sudo pacman -Syy
+ 4115  sudo pacman -Syyu
+ 4183  sudo pacman -S node
+ 4184  sudo pacman -S nodejs
+ 4506  sudo pacman -S imagemagick
+ 4507  sudo pacman -S pixbuf
+ 4511  sudo pacman -S mpc
+ 5149  history| grep -i pacman
+ 5150  history| grep -i pacman | head -1
+ 5733  history | grep -i pacman
+ 5734  history | grep -i pacman,yay

@@ -1,0 +1,63 @@
+   81  yay optimus-manager
+   84  yay all-repository-fonts
+   86  yay all-repository-fonts
+   87  yay ttf-ms-fonts
+  103  yay -Rns spotify
+  104  yay spotify
+  117  yay spotidy
+  118  yay spotify
+  128  yay google-chrome
+  133  yay chrome-gnome-shell
+  182  yay pywal
+  459  yay cava
+  544  yay startx
+  608  yay code
+  609  yay vscode
+  755  yay -S steam
+  756  yay steam
+  761  yay steam
+  768  yay -S python-wal-steam-git
+  776  yay -Rns python-wal-steam-git
+  777  yay pywal-discord-git
+  973  yay lolban
+ 1203  yay amixer
+ 1273  yay discord
+ 1289  yay picom
+ 1476  cd yay
+ 1552  history | grep -i yay
+ 1664  yay upd72020x-fw
+ 1665  yay aic94xx-firmware
+ 1666  yay wd719x-firmware
+ 1675  yay -Syyu
+ 1678  yay vscode
+ 2062  yay ytmdl-git
+ 2089  yay ytmdl
+ 2090  yay -Rncs ytmdl-git
+ 2091  yay -Rnc ytmdl-git
+ 2092  yay -Rnc ytmdl
+ 2212  yay pipes
+ 2213  yay pipes-sh
+ 2214  yay pipesh
+ 2526  yay -Syyu
+ 2625  yay nslookyp
+ 2626  yay nslookup
+ 2960  yay -Ss applet
+ 3291  yay ly
+ 3292  yay tui
+ 3293  yay -S ly
+ 3294  yay -Ss ly
+ 3295  yay -Ss ly | grep -i ly
+ 3296  yay -S ly
+ 3408  yay -S lightdm lightdm-webkit2-greeter
+ 3449  yay lightdm-settings
+ 4116  yay -Syyu
+ 4382  yay mpd-notification
+ 4508  yay pixbuf
+ 4509  yay -S pixbuf
+ 4510  yay pixbuf
+ 5702  yay xpenguins
+ 5716  yay xpenguin-themes
+ 5717  yay xpeng
+ 5720  yay xsnow
+ 5734  history | grep -i pacman,yay
+ 5735  history | grep -i yay
